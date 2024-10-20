@@ -71,3 +71,5 @@ infinite loop and frees the memory for the token and cookie.
 
 For this project I used JSON for the "Nlohmann" library, being easy to use for parsing the response from the server, also being recommended on the assignment's page.
 https://github.com/nlohmann/json
+
+### More - https://pcom.pages.upb.ro/enunt-tema4/
